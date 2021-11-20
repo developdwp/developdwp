@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pascal, Belgian, I live in France, I am 55 years old and passionate about coding and web development after my job.
 - 👀 I’m interested in REACT JS, BOOTSTRAP, CSS, HTML..
 - 🌱 I’m currently learning NEXTJS & TAILWINDCSS..
-- 💞️ I’m looking to collaborate on other beginner or more experienced to build websites in ReactJS.
+- 💞️ I’m looking to collaborate on other beginner or more experienced to build NEXTJS websites.
 - 📫 How to reach me developdwp@gmail.com
 
 <!---
