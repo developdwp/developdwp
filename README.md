@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+</p>
+<br>
+
 - 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 55 years old and passionate about coding and web development after my job.
 - 👀  - I’m interested by REACT JS, BOOTSTRAP, CSS, HTML..
 - 🌱  - I’m currently learning NEXTJS & TAILWINDCSS..
