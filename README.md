@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif"width="200" height="300">
 </p>
 <br>
 
