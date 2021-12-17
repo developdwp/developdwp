@@ -2,9 +2,8 @@
 <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif"width="500" height="300">
 </p>
  <br>
-![](images/iphoneGithub.png)
+![](images/iphonegithub.png)
 <br>
-<img src="images/iphoneGithub.png"width="100" height="400">
 <br>
 
 - 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 55 years old and passionate about coding and web development after my job.
