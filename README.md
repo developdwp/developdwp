@@ -3,7 +3,7 @@
 </p>
 <br>
 <p align="center">
-<img src="https://github.com/developdwp/images/blob/main/iphoneGithub.png?raw=true"width="300" height="500">
+<img src="https://github.com/developdwp/images/blob/main/iphoneGithub.png?raw=true"width="270" height="500">
 </p>
 <br>
 
