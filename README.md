@@ -1,10 +1,8 @@
 <p align="center">
 <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif"width="500" height="300">
 </p>
- <br>
-![picture](https://github.com/developdwp/images/blob/main/iphoneGithub.png)
 <br>
-<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif"width="200" height="500">
+<img src="https://github.com/developdwp/images/blob/main/iphoneGithub.png?raw=true"width="200" height="500">
 <br>
 
 - 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 55 years old and passionate about coding and web development after my job.
