@@ -3,7 +3,7 @@
 </p>
  <br>
  <p align="center">
- <img src="file:///Volumes/DATA%20DOCUMENTS/_Boys/Boy-Save/__WebSite/iphoneGithub.png"width="300" height="800">
+ <img src="file:///Volumes/DATA%20DOCUMENTS/_Boys/Boy-Save/__WebSite/iphoneGithub.png">
  </p>
 <br>
 
