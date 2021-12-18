@@ -33,7 +33,7 @@ This section lists all the major frameworks / libraries that I am using and lear
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<br>
+
 ### My creations
 
 This section presents the first pages of my websites
