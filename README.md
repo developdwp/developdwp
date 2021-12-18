@@ -7,7 +7,7 @@
 </p>
 <br>
 ✨ 
-- 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 55 years old and passionate about coding and webdesign after my job.
+- 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 55 years old and passionate about coding and webdesign after my job. <br>
 - 👀  - I’m interested by REACT JS, BOOTSTRAP, CSS, HTML...
 - 🧡	- I really enjoy designing and realizing the visual identity, illustrations, banners, graphical charter, pack ADOBE...
 - 🌱  - I’m currently learning NEXTJS..
