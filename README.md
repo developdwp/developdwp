@@ -6,12 +6,12 @@
 <img src="https://github.com/developdwp/images/blob/main/iphoneGithub.png?raw=true"width="270" height="500">
 </p>
 <br>
-✨ 
+✨ <br>
 - 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 55 years old and passionate about coding and webdesign after my job. <br>
-- 👀  - I’m interested by REACT JS, BOOTSTRAP, CSS, HTML...
-- 🧡	- I really enjoy designing and realizing the visual identity, illustrations, banners, graphical charter, pack ADOBE...
-- 🌱  - I’m currently learning NEXTJS..
-- 💞️  - I’m looking to collaborate on other beginner or more experienced to build NEXTJS websites.
-- 📫  - Join me --> developdwp@gmail.com
-✨ 
+- 👀  - I’m interested by REACT JS, BOOTSTRAP, CSS, HTML... <br>
+- 🧡	- I really enjoy designing and realizing the visual identity, illustrations, banners, graphical charter, pack ADOBE...<br>
+- 🌱  - I’m currently learning NEXTJS..<br>
+- 💞️  - I’m looking to collaborate on other beginner or more experienced to build NEXTJS websites.<br>
+- 📫  - Join me --> developdwp@gmail.com<br>
+✨ <br>
 <!--- --->
