@@ -22,6 +22,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
+
 This section lists all the major frameworks / libraries that I am using and learning to bootstrap my projects.
 
 * [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
@@ -34,6 +35,7 @@ This section lists all the major frameworks / libraries that I am using and lear
 
 <br>
 ### My creations
+
 This section presents the first pages of my websites
 
 * [BLOG-CUISINE](https://developdwp.github.io/dwp_blogcuisine/)
