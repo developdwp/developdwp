@@ -9,7 +9,7 @@
 </p>
 
 <!-- ***************************************************************************************** -->
-## 🔧 About me
+## �👋 About me
 
 - 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 55 years old, self-taught, passionate about coding and webdesign after my job. <br>
 - 👀  - I’m interested by REACT JS, BOOTSTRAP, CSS, HTML... <br>
@@ -50,10 +50,10 @@
 This section lists all the major frameworks / libraries that I am using and learning to bootstrap my projects.
 
 * [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
-* [Bootstrap](https://getbootstrap.com)
+* [BOOTSTRAP](https://getbootstrap.com)
 * [CSS](https://www.w3schools.com/css/)
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
+* [NEXT.JS](https://nextjs.org/)
+* [REACT.JS](https://reactjs.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
