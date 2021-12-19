@@ -29,7 +29,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ***************************************************************************************** -->
 
-## 📥 My online lessons
+## 📥 My online training
 
 * [Formation complète développeur Front-End](https://www.udemy.com/course/formation-complete-developpeur-front-end/)
 * [Formation Complète Développeur Web](https://www.udemy.com/course/formation-developpeur-web/)
@@ -46,7 +46,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ***************************************************************************************** -->
 
-## 🔧 My online lessons
+## 🔧 Docs
 
 This section lists all the major frameworks / libraries that I am using and learning to bootstrap my projects.
 
@@ -59,7 +59,7 @@ This section lists all the major frameworks / libraries that I am using and lear
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ***************************************************************************************** -->
-## 🖌 My creations
+## 🖌 My first results
 
 This section presents my draft websites, my target a website all NEXT JS, BOOTSTRAP and deployed with VERCEL.
 
