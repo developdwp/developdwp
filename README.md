@@ -28,7 +28,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Built With
+## ⚡ Built With
 
 This section lists all the major frameworks / libraries that I am using and learning to bootstrap my projects.
 
@@ -41,7 +41,7 @@ This section lists all the major frameworks / libraries that I am using and lear
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-### My creations
+## ⚡ My creations
 
 This section presents the first pages of my websites
 
@@ -57,7 +57,7 @@ This section presents the first pages of my websites
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br>
 
-### Preview
+## ⚡ Preview
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=developdwp&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--- --->
 
