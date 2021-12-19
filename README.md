@@ -9,12 +9,12 @@
 </p>
 <!-- ***************************************************************************************** -->
 ## ⚡ About me
-- 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 55 years old, self-taught, passionate about coding and webdesign after my job. <br>
-- 👀  - I’m interested by REACT JS, BOOTSTRAP, CSS, HTML... <br>
-- 🧡	- I really enjoy designing and realizing the visual identity, illustrations, banners, graphical charter, pack ADOBE...<br>
-- 🌱  - I’m currently learning NEXTJS..<br>
-- 💞️  - I’m looking to collaborate on other beginner or more experienced to build NEXTJS websites.<br>
-- 📫  - Join me --> developdwp@gmail.com<br>
+*- 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 55 years old, self-taught, passionate about coding and webdesign after my job. <br>
+*- 👀  - I’m interested by REACT JS, BOOTSTRAP, CSS, HTML... <br>
+*- 🧡	- I really enjoy designing and realizing the visual identity, illustrations, banners, graphical charter, pack ADOBE...<br>
+*- 🌱  - I’m currently learning NEXTJS..<br>
+*- 💞️  - I’m looking to collaborate on other beginner or more experienced to build NEXTJS websites.<br>
+*- 📫  - Join me --> developdwp@gmail.com<br>
 <br>
 
 <!-- ***************************************************************************************** -->
