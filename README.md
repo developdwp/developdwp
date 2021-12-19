@@ -1,8 +1,11 @@
 ## 🙋‍♂️ Hi!
 
-<p align="center">
-<a href="https://github.com/sponsors/developdwp"><img alt="Sponsor with Github" title="developdwp with Github" src="https://img.shields.io/badge/-_______________________developdwp______________________________-ea4aaa?style=for-the-badge&logo=github&logoColor=white/></a>
+<p align="left">
+  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://github.com/sponsors/DenverCoder1"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+
 
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="Users" title="Repo users">
