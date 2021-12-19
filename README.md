@@ -49,47 +49,7 @@ This section presents the first pages of my websites
 <br>
 
 
-<div align="center">
-
-# zoxide
-
-[![crates.io][crates.io-badge]][crates.io]
-[![Downloads][downloads-badge]][releases]
-[![Built with Nix][builtwithnix-badge]][builtwithnix]
-
-zoxide is a **smarter cd command**, inspired by z and autojump.
-
-It remembers which directories you use most frequently, so you can "jump" to
-them in just a few keystrokes.<br />
-zoxide works on all major shells.
-
-[Getting started](#getting-started) •
-[Installation](#installation) •
-[Configuration](#configuration) •
-[Integrations](#third-party-integrations)
-
-</div>
-
-## Getting started
-
-![Tutorial][tutorial]
-
-```sh
-z foo              # cd into highest ranked directory matching foo
-z foo bar          # cd into highest ranked directory matching foo and bar
-
-z ~/foo            # z also works like a regular cd command
-z foo/             # cd into relative path
-z ..               # cd one level up
-z -                # cd into previous directory
-
-zi foo             # cd with interactive selection (using fzf)
-
-z foo<SPACE><TAB>  # show interactive completions (zoxide v0.7.10+, bash/fish/zsh only)
-```
-
-Read more about the matching algorithm [here][algorithm-matching].
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=developdwp&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--- --->
 
 
