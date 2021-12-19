@@ -9,7 +9,7 @@
 </p>
 <br>
 <!-- ***************************************************************************************** -->
-## ⚡ About me <br>
+ ⚡ About me <br>
 
 - 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 55 years old, self-taught, passionate about coding and webdesign after my job. <br>
 - 👀  - I’m interested by REACT JS, BOOTSTRAP, CSS, HTML... <br>
