@@ -47,6 +47,8 @@
 <!-- ***************************************************************************************** -->
 ## 🔧 Built With
 
+## 🔧 My online lessons
+
 This section lists all the major frameworks / libraries that I am using and learning to bootstrap my projects.
 
 * [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
