@@ -11,7 +11,7 @@
 
 
 
-
+<p align="left">
 ### About me
 ✨ <br>
 - 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 55 years old and passionate about coding and webdesign after my job. <br>
@@ -21,6 +21,7 @@
 - 💞️  - I’m looking to collaborate on other beginner or more experienced to build NEXTJS websites.<br>
 - 📫  - Join me --> developdwp@gmail.com<br>
 ✨ <br>
+ </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
