@@ -9,14 +9,13 @@
 </p>
 
 ## ⚡ About me
-✨ <br>
 - 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 55 years old and passionate about coding and webdesign after my job. <br>
 - 👀  - I’m interested by REACT JS, BOOTSTRAP, CSS, HTML... <br>
 - 🧡	- I really enjoy designing and realizing the visual identity, illustrations, banners, graphical charter, pack ADOBE...<br>
 - 🌱  - I’m currently learning NEXTJS..<br>
 - 💞️  - I’m looking to collaborate on other beginner or more experienced to build NEXTJS websites.<br>
 - 📫  - Join me --> developdwp@gmail.com<br>
-✨ <br>
+<br>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -59,12 +58,12 @@ This section presents the first pages of my websites
 
 ## ⚡ Preview
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=developdwp&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!--- --->
+
 
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br>
 
-
+<!--- ✨  ✨ --->
 
 
