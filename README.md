@@ -10,6 +10,7 @@
 <br>
 <!-- ***************************************************************************************** -->
 ## ⚡ About me <br>
+
 - 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 55 years old, self-taught, passionate about coding and webdesign after my job. <br>
 - 👀  - I’m interested by REACT JS, BOOTSTRAP, CSS, HTML... <br>
 - 🧡	- I really enjoy designing and realizing the visual identity, illustrations, banners, graphical charter, pack ADOBE...<br>
@@ -18,9 +19,8 @@
 - 📫  - Join me --> developdwp@gmail.com<br>
 <br>
 
-<!-- ***************************************************************************************** -->
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+<!-- ***************************************************************************************** -->
 <p align="center">
 <img src="https://github.com/developdwp/images/blob/main/iphoneGithub.png?raw=true"width="270" height="500">
 </p>
@@ -30,6 +30,7 @@
 <!-- ***************************************************************************************** -->
 
 ## 📥 My online lessons
+
 * [Formation complète développeur Front-End](https://www.udemy.com/course/formation-complete-developpeur-front-end/)
 * [Formation Complète Développeur Web](https://www.udemy.com/course/formation-developpeur-web/)
 
