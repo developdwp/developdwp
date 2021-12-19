@@ -86,7 +86,11 @@ This section presents my draft websites, my target a website all NEXT JS, BOOTST
 <br>
 
 <!-- ***************************************************************************************** -->
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
+  
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  
+  
 <!--- ✨  ✨ --->
 
 
