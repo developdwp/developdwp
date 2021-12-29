@@ -69,7 +69,6 @@ This section presents my draft websites, my target a website all NEXT JS, BOOTST
 * [Blog-cuisine](https://developdwp.github.io/dwp_blogcuisine/)
 * [qr-generator](https://developdwp.github.io/qr-generator/)
 * [CV-1](https://developdwp.github.io/dwp_cv1/)
-* [CV-2](https://developdwp.github.io/dwp_cv2/)
 * [Cuisine de Carine 38](https://developdwp.github.io/dwp_cook/)
 * [Industrialisateur Processus de marquages produits / Web Designer](https://developdwp.github.io/dwp_markingtechno/)
 
