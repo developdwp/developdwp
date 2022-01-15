@@ -35,44 +35,64 @@
 
 ## 📥 MY ONLINE TRAINING
 
-* [Formation complète développeur Front-End](https://www.udemy.com/course/formation-complete-developpeur-front-end/)
-* [Formation Complète Développeur Web](https://www.udemy.com/course/formation-developpeur-web/)
+<table>
+  <tr>
+    <td>
+        * [Formation complète développeur Front-End](https://www.udemy.com/course/formation-complete-developpeur-front-end/)
+        * [Formation Complète Développeur Web](https://www.udemy.com/course/formation-developpeur-web/)
 
-* [React de A à Z (Hooks, Redux, Contexte inclus)](https://www.udemy.com/course/react-formation-complete/)
-* [Coder 10 projets avec React](https://www.udemy.com/course/coder-10-projets-avec-react/)
+        * [React de A à Z (Hooks, Redux, Contexte inclus)](https://www.udemy.com/course/react-formation-complete/)
+        * [Coder 10 projets avec React](https://www.udemy.com/course/coder-10-projets-avec-react/)
 
-* [JavaScript : la formation ULTIME](https://www.udemy.com/course/javascript-la-formation-ultime/)
+        * [JavaScript : la formation ULTIME](https://www.udemy.com/course/javascript-la-formation-ultime/)
 
-* [Python pour les débutants](https://www.udemy.com/course/formation-complete-python/)
-* [Python & Django - Formation Développeur Web](https://www.udemy.com/course/python-django-formation-developpeur-web-full-stack/?src=sac&kw=python+%26+django)
-* [Django & Python | Maitrisez le développement web](https://www.udemy.com/course/django-2-python-maitrisez-le-developpement-web/)
+        * [Python pour les débutants](https://www.udemy.com/course/formation-complete-python/)
+        * [Python & Django - Formation Développeur Web](https://www.udemy.com/course/python-django-formation-developpeur-web-full-stack/?src=sac&kw=python+%26+django)
+        * [Django & Python | Maitrisez le développement web](https://www.udemy.com/course/django-2-python-maitrisez-le-developpement-web/)
+    </td>
+  </tr>
+</table>
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ***************************************************************************************** -->
 
 ## 🔧 DOCS
 
-This section lists all the major frameworks / libraries that I am using and learning to bootstrap my projects.
+<table>
+  <tr>
+    <td>
+        This section lists all the major frameworks / libraries that I am using and learning to bootstrap my projects.
 
-* [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
-* [BOOTSTRAP](https://getbootstrap.com)
-* [CSS](https://www.w3schools.com/css/)
-* [NEXT.JS](https://nextjs.org/)
-* [REACT.JS](https://reactjs.org/)
-* [ANGULAR](https://angular.io/guide/what-is-angular/)
+        * [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
+        * [BOOTSTRAP](https://getbootstrap.com)
+        * [CSS](https://www.w3schools.com/css/)
+        * [NEXT.JS](https://nextjs.org/)
+        * [REACT.JS](https://reactjs.org/)
+        * [ANGULAR](https://angular.io/guide/what-is-angular/)
+    </td>
+  </tr>
+</table>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ***************************************************************************************** -->
 ## 🖌 MY FIRST RESULTS
 
-This section presents my draft websites, my target a website all NEXT JS, BOOTSTRAP and deployed with VERCEL.
+<table>
+  <tr>
+    <td>
+        This section presents my draft websites, my target a website all NEXT JS, BOOTSTRAP and deployed with VERCEL.
 
-* [Blog-cuisine](https://developdwp.github.io/dwp_blogcuisine/)
-* [qr-generator](https://developdwp.github.io/qr-generator/)
-* [CV-1](https://developdwp.github.io/dwp_cv1/)
-* [Cuisine de Carine 38](https://developdwp.github.io/dwp_cook/)
-* [Industrialisateur Processus de marquages produits / Web Designer](https://developdwp.github.io/dwp_markingtechno/)
+        * [Blog-cuisine](https://developdwp.github.io/dwp_blogcuisine/)
+        * [qr-generator](https://developdwp.github.io/qr-generator/)
+        * [CV-1](https://developdwp.github.io/dwp_cv1/)
+        * [Cuisine de Carine 38](https://developdwp.github.io/dwp_cook/)
+        * [Industrialisateur Processus de marquages produits / Web Designer](https://developdwp.github.io/dwp_markingtechno/)
+
+    </td>
+  </tr>
+</table>
 
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -80,23 +100,30 @@ This section presents my draft websites, my target a website all NEXT JS, BOOTST
 <!-- ***************************************************************************************** -->
 <!-- ***************************************************************************************** -->
 ## 👀  ANGULAR
-![Capture d’écran 2022-01-14 à 18 06 42](https://user-images.githubusercontent.com/64360591/149555861-84cd96c7-ddd8-42e3-a439-3669165a603c.png)
-## 🔧 Angular-Install on MACos
 
-* Download and Install Node.js
-* npm & node upgrade --> $ brew upgrade node 
-* In terminal; Install Angular CLI --> $ npm install -g @angular/cli@13         #Angular 13
-* Testing the installation of Angular CLI --> $ ng version
-* Create New Angular Application --> $ ng new helloWorld <br>
-For the Query “Would you like to add Angular Routing?” type Yes. <br>
-For the Query “Which style sheet format would you like to choose?” move your cursor to point to “CSS” and click enter. <br>
-* Serve Angular Application --> $ cd helloWorld --> $ ng serve 
-* Running the Hello-World Application --> http://localhost4200 <br>
+<table>
+  <tr>
+    <td>
+        ![Capture d’écran 2022-01-14 à 18 06 42](https://user-images.githubusercontent.com/64360591/149555861-84cd96c7-ddd8-42e3-a439-3669165a603c.png)
+        ## 🔧 Angular-Install on MACos
 
-*![Capture d’écran 2022-01-15 à 10 31 03](https://user-images.githubusercontent.com/64360591/149616951-55b60ce4-7cd0-4146-aa83-934b6af3bde3.png)<br>
+        * Download and Install Node.js
+        * npm & node upgrade --> $ brew upgrade node 
+        * In terminal; Install Angular CLI --> $ npm install -g @angular/cli@13         #Angular 13
+        * Testing the installation of Angular CLI --> $ ng version
+        * Create New Angular Application --> $ ng new helloWorld <br>
+        For the Query “Would you like to add Angular Routing?” type Yes. <br>
+        For the Query “Which style sheet format would you like to choose?” move your cursor to point to “CSS” and click enter. <br>
+        * Serve Angular Application --> $ cd helloWorld --> $ ng serve 
+        * Running the Hello-World Application --> http://localhost4200 <br>
 
-* Typically, the browser looks something like this: <br>
-![Capture d’écran 2022-01-15 à 10 32 07](https://user-images.githubusercontent.com/64360591/149616986-ef6707fd-5f06-4cd0-a659-d69f10f029d8.png)
+        *![Capture d’écran 2022-01-15 à 10 31 03](https://user-images.githubusercontent.com/64360591/149616951-55b60ce4-7cd0-4146-aa83-934b6af3bde3.png)<br>
+
+        * Typically, the browser looks something like this: <br>
+        ![Capture d’écran 2022-01-15 à 10 32 07](https://user-images.githubusercontent.com/64360591/149616986-ef6707fd-5f06-4cd0-a659-d69f10f029d8.png)
+    </td>
+  </tr>
+</table>
 
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
