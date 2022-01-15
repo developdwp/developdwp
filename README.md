@@ -85,7 +85,7 @@ This section presents my draft websites, my target a website all NEXT JS, BOOTST
 * Download and Install Node.js
 * In terminal; Install Angular CLI --> $ npm install -g @angular/cli@13         #Angular 13
 * Testing the installation of Angular CLI --> $ ng version
-* Create New Angular Application --> $ ng new hello-world 
+* Create New Angular Application --> $ ng new helloWorld 
 For the Query “Would you like to add Angular Routing?” type Yes. 
 For the Query “Which style sheet format would you like to choose?” move your cursor to point to “CSS” and click enter. 
 * Serve Angular Application --> $ cd hello-world --> $ ng serve 
