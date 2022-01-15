@@ -26,8 +26,9 @@
 <!-- ***************************************************************************************** -->
 <p align="center">
 
-
+<div style="width:60px ; height:60px">
   ![Capture d’écran 2022-01-15 à 10 43 42](https://user-images.githubusercontent.com/64360591/149617358-beda8af8-b913-4681-9c59-98c6bcac990e.png)
+ </div>
 
 </p>
 <br>
