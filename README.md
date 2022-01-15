@@ -83,8 +83,16 @@ This section presents my draft websites, my target a website all NEXT JS, BOOTST
 ## 🔧 Angular-Install on MACos
 
 * Download and Install Node.js
-* In terminal; Install Angular CLI --> npm install -g @angular/cli@13         #Angular 13
-*  
+* In terminal; Install Angular CLI --> $ npm install -g @angular/cli@13         #Angular 13
+* Testing the installation of Angular CLI --> $ ng version
+* Create New Angular Application --> $ ng new hello-world 
+For the Query “Would you like to add Angular Routing?” type Yes. 
+For the Query “Which style sheet format would you like to choose?” move your cursor to point to “CSS” and click enter. 
+* Serve Angular Application --> $ cd hello-world --> $ ng serve 
+* Running the Hello-World Application --> http://localhostž4200 
+*![Capture d’écran 2022-01-15 à 10 31 03](https://user-images.githubusercontent.com/64360591/149616951-55b60ce4-7cd0-4146-aa83-934b6af3bde3.png)
+* Typically, the browser looks something like this: 
+![Capture d’écran 2022-01-15 à 10 32 07](https://user-images.githubusercontent.com/64360591/149616986-ef6707fd-5f06-4cd0-a659-d69f10f029d8.png)
 
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
