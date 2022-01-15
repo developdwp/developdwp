@@ -35,9 +35,6 @@
 
 ## 📥 MY ONLINE TRAINING
 
-<table>
-  <tr>
-    <td>
         * [Formation complète développeur Front-End](https://www.udemy.com/course/formation-complete-developpeur-front-end/)
         * [Formation Complète Développeur Web](https://www.udemy.com/course/formation-developpeur-web/)
 
@@ -49,9 +46,6 @@
         * [Python pour les débutants](https://www.udemy.com/course/formation-complete-python/)
         * [Python & Django - Formation Développeur Web](https://www.udemy.com/course/python-django-formation-developpeur-web-full-stack/?src=sac&kw=python+%26+django)
         * [Django & Python | Maitrisez le développement web](https://www.udemy.com/course/django-2-python-maitrisez-le-developpement-web/)
-    </td>
-  </tr>
-</table>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
