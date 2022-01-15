@@ -35,17 +35,15 @@
 
 ## 📥 MY ONLINE TRAINING
 
-        * [Formation complète développeur Front-End](https://www.udemy.com/course/formation-complete-developpeur-front-end/)
-        * [Formation Complète Développeur Web](https://www.udemy.com/course/formation-developpeur-web/)
-
-        * [React de A à Z (Hooks, Redux, Contexte inclus)](https://www.udemy.com/course/react-formation-complete/)
-        * [Coder 10 projets avec React](https://www.udemy.com/course/coder-10-projets-avec-react/)
-
-        * [JavaScript : la formation ULTIME](https://www.udemy.com/course/javascript-la-formation-ultime/)
-
-        * [Python pour les débutants](https://www.udemy.com/course/formation-complete-python/)
-        * [Python & Django - Formation Développeur Web](https://www.udemy.com/course/python-django-formation-developpeur-web-full-stack/?src=sac&kw=python+%26+django)
-        * [Django & Python | Maitrisez le développement web](https://www.udemy.com/course/django-2-python-maitrisez-le-developpement-web/)
+  * [Formation complète développeur Front-End](https://www.udemy.com/course/formation-complete-developpeur-front-end/)
+  * [Formation Complète Développeur Web](https://www.udemy.com/course/formation-developpeur-web/)
+  * [React de A à Z (Hooks, Redux, Contexte inclus)](https://www.udemy.com/course/react-formation-complete/)
+  * [Coder 10 projets avec React](https://www.udemy.com/course/coder-10-projets-avec-react/)
+  * [JavaScript : la formation ULTIME](https://www.udemy.com/course/javascript-la-formation-ultime/)
+  * [Python pour les débutants](https://www.udemy.com/course/formation-complete-python/)
+  * [Python & Django - Formation Développeur Web](https://www.udemy.com/course/python-django-formation-developpeur-web-full-stack/?src=sac&kw=python+%26+django)
+  * [Django & Python | Maitrisez le développement web](https://www.udemy.com/course/django-2-python-maitrisez-le-developpement-web/)
+  * [Angular --> below]('')
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
