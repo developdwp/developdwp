@@ -98,9 +98,10 @@ For the Query “Which style sheet format would you like to choose?” move your
   
 <!-- ***************************************************************************************** -->
 
-<p align="center">
-  <img src="![iphoneGithub300pp](https://user-images.githubusercontent.com/64360591/149618335-fdf3d7e3-eb52-4cf5-9e4a-5446a197c625.png)
-" height="150">
+
+  
+  
+![iphoneGithub300pp](https://user-images.githubusercontent.com/64360591/149618397-4fa2dda4-3d55-4f48-a4e5-e9a8cf89b58f.png)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
