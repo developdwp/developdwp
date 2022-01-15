@@ -112,7 +112,17 @@ For the Query “Which style sheet format would you like to choose?” move your
   </tr>
 </table>
   
-  
+<table>
+  <tr>
+    <td>
+      ## 👀  ANGULAR
+      * Create New Angular Application --> $ ng new helloWorld <br>
+      For the Query “Would you like to add Angular Routing?” type Yes. <br>
+      For the Query “Which style sheet format would you like to choose?” move your cursor to point to “CSS” and click enter. <br>
+      * Serve Angular Application --> $ cd helloWorld --> $ ng serve 
+    </td>
+  </tr>
+</table>
 
 
 
