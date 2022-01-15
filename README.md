@@ -82,9 +82,9 @@ This section presents my draft websites, my target a website all NEXT JS, BOOTST
 For the Query “Would you like to add Angular Routing?” type Yes. <br>
 For the Query “Which style sheet format would you like to choose?” move your cursor to point to “CSS” and click enter. <br>
 * Serve Angular Application --> $ cd helloWorld --> $ ng serve 
-* Running the Hello-World Application --> http://localhostž4200 
-*![Capture d’écran 2022-01-15 à 10 31 03](https://user-images.githubusercontent.com/64360591/149616951-55b60ce4-7cd0-4146-aa83-934b6af3bde3.png)
-* Typically, the browser looks something like this: 
+* Running the Hello-World Application --> http://localhostž4200 <br>
+*![Capture d’écran 2022-01-15 à 10 31 03](https://user-images.githubusercontent.com/64360591/149616951-55b60ce4-7cd0-4146-aa83-934b6af3bde3.png)<br>
+* Typically, the browser looks something like this: <br>
 ![Capture d’écran 2022-01-15 à 10 32 07](https://user-images.githubusercontent.com/64360591/149616986-ef6707fd-5f06-4cd0-a659-d69f10f029d8.png)
 
 <br>
