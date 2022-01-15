@@ -104,9 +104,9 @@ For the Query “Which style sheet format would you like to choose?” move your
 <table>
   <tr>
     <td>
-      <a href="https://www.ganatan.com/en">
+      <a href="">
         <img src="https://user-images.githubusercontent.com/64360591/149618397-4fa2dda4-3d55-4f48-a4e5-e9a8cf89b58f.png" align="center"
-        alt="Ganatan Angular Example Demo" width="240" height="420">
+        alt="" width="240" height="420">
       </a>
     </td>
   </tr>
