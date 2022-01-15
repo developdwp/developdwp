@@ -76,6 +76,7 @@ This section presents my draft websites, my target a website all NEXT JS, BOOTST
 ## 🔧 Angular-Install on MACos
 
 * Download and Install Node.js
+* npm & node upgrade --> $ brew upgrade node 
 * In terminal; Install Angular CLI --> $ npm install -g @angular/cli@13         #Angular 13
 * Testing the installation of Angular CLI --> $ ng version
 * Create New Angular Application --> $ ng new helloWorld <br>
