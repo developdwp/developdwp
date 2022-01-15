@@ -58,6 +58,7 @@ This section lists all the major frameworks / libraries that I am using and lear
 * [CSS](https://www.w3schools.com/css/)
 * [NEXT.JS](https://nextjs.org/)
 * [REACT.JS](https://reactjs.org/)
+* [ANGULAR](https://reactjs.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
