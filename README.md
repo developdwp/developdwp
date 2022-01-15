@@ -83,7 +83,7 @@ This section presents my draft websites, my target a website all NEXT JS, BOOTST
 ## 🔧 Angular-Install on MACos
 
 * Download and Install Node.js
-* Install Angular CLI --> $ npm install -g @angular/cli@13         #Angular 13
+* In terminal; Install Angular CLI --> npm install -g @angular/cli@13         #Angular 13
 *  
 
 <br>
