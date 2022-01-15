@@ -103,6 +103,11 @@ For the Query “Which style sheet format would you like to choose?” move your
   ![Capture d’écran 2022-01-15 à 10 43 42](https://user-images.githubusercontent.com/64360591/149617358-beda8af8-b913-4681-9c59-98c6bcac990e.png)
 </p>
 
+<p align="center">
+  <img src="![iphoneGithub300pp](https://user-images.githubusercontent.com/64360591/149618335-fdf3d7e3-eb52-4cf5-9e4a-5446a197c625.png)
+" height="150">
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ***************************************************************************************** -->
 
