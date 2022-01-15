@@ -14,12 +14,20 @@
 <!-- ***************************************************************************************** -->
 ## 👋 ABOUT ME
 
-- 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 56 years old, self-taught, passionate about coding and webdesign after my job. <br>
-- 👀  - I’m interested by REACT JS, BOOTSTRAP, CSS, HTML... <br>
-- 🧡	- I really enjoy designing and realizing the visual identity, illustrations, banners, graphical charter, pack ADOBE...<br>
-- 🌱  - I’m currently learning ANGULAR..<br>
-- 💞️  - I’m looking to collaborate on other beginner or more experienced to build NEXTJS websites.<br>
-- 📫  - Join me --> developdwp@gmail.com<br>
+
+<table>
+  <tr>
+    <td>
+        - 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 56 years old, self-taught, passionate about coding and webdesign after my job. <br>
+        - 👀  - I’m interested by REACT JS, BOOTSTRAP, CSS, HTML... <br>
+        - 🧡	- I really enjoy designing and realizing the visual identity, illustrations, banners, graphical charter, pack ADOBE...<br>
+        - 🌱  - I’m currently learning ANGULAR..<br>
+        - 💞️  - I’m looking to collaborate on other beginner or more experienced to build NEXTJS websites.<br>
+        - 📫  - Join me --> developdwp@gmail.com<br>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -112,18 +120,6 @@ For the Query “Which style sheet format would you like to choose?” move your
   </tr>
 </table>
   
-<table>
-  <tr>
-    <td>
-      ## 👀  ANGULAR
-      * Create New Angular Application --> $ ng new helloWorld <br>
-      For the Query “Would you like to add Angular Routing?” type Yes. <br>
-      For the Query “Which style sheet format would you like to choose?” move your cursor to point to “CSS” and click enter. <br>
-      * Serve Angular Application --> $ cd helloWorld --> $ ng serve 
-    </td>
-  </tr>
-</table>
-
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
