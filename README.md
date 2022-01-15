@@ -25,9 +25,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ***************************************************************************************** -->
 <p align="center">
-<img src="https://github.com/developdwp/images/blob/main/iphoneGithub.png?raw=true"width="270" height="500">
-  
-  ![Capture d’écran 2022-01-15 à 10 40 00](https://user-images.githubusercontent.com/64360591/149617243-68088433-84e1-4367-8145-ff9385a3434c.png)
+ ![Capture d’écran 2022-01-15 à 10 40 00](https://user-images.githubusercontent.com/64360591/149617243-68088433-84e1-4367-8145-ff9385a3434c.png)width="270" height="500">
 
   
 </p>
