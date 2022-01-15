@@ -101,7 +101,29 @@ For the Query “Which style sheet format would you like to choose?” move your
   
 <!-- ***************************************************************************************** -->
 
+<table>
+<tr>
+<td>
+  <a href="https://www.ganatan.com/en">
+    <img src="https://user-images.githubusercontent.com/64360591/149618397-4fa2dda4-3d55-4f48-a4e5-e9a8cf89b58f.png" align="right"
+    alt="Ganatan Angular Example Demo" width="140" height="140">
+  </a>
 
+it's a repo designed to create a **Web Application with Angular 13**
+
+
+* Frontend - [**Angular 13.1.2**](https://github.com/angular/angular/releases) & [**Angular CLI 13.1.3**](https://github.com/angular/angular-cli/releases/)
+
+* UI prototype - [**bootstrap 5**](https://v5.getbootstrap.com/docs/5.0/getting-started/download/) 
+
+* Backend - CRUD REST API [**PostgreSQL**](https://www.postgresql.org/download/)
+
+* See the [**Live demo**](#live-demo), Test the repo with [**Quick start**](#quick-start) and for more information Read the step by step [**Tutorial**](#tutorial) or read the [**Getting started**](#getting-started)
+
+
+</td>
+</tr>
+</table>
   
   
 ![iphoneGithub300pp](https://user-images.githubusercontent.com/64360591/149618397-4fa2dda4-3d55-4f48-a4e5-e9a8cf89b58f.png)
