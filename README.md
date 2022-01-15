@@ -12,7 +12,7 @@
 </p>
 
 <!-- ***************************************************************************************** -->
-## 👋 About me
+## 👋 ABOUT ME
 
 - 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 55 years old, self-taught, passionate about coding and webdesign after my job. <br>
 - 👀  - I’m interested by REACT JS, BOOTSTRAP, CSS, HTML... <br>
@@ -32,7 +32,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ***************************************************************************************** -->
 
-## 📥 My online training
+## 📥 MY ONLINE TRAINING
 
 * [Formation complète développeur Front-End](https://www.udemy.com/course/formation-complete-developpeur-front-end/)
 * [Formation Complète Développeur Web](https://www.udemy.com/course/formation-developpeur-web/)
@@ -49,7 +49,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ***************************************************************************************** -->
 
-## 🔧 Docs
+## 🔧 DOCS
 
 This section lists all the major frameworks / libraries that I am using and learning to bootstrap my projects.
 
@@ -63,7 +63,7 @@ This section lists all the major frameworks / libraries that I am using and lear
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ***************************************************************************************** -->
-## 🖌 My first results
+## 🖌 MY FIRST RESULTS
 
 This section presents my draft websites, my target a website all NEXT JS, BOOTSTRAP and deployed with VERCEL.
 
@@ -78,7 +78,7 @@ This section presents my draft websites, my target a website all NEXT JS, BOOTST
 
 <!-- ***************************************************************************************** -->
 <!-- ***************************************************************************************** -->
-## 👀  Angular
+## 👀  ANGULAR
 ![Capture d’écran 2022-01-14 à 18 06 42](https://user-images.githubusercontent.com/64360591/149555861-84cd96c7-ddd8-42e3-a439-3669165a603c.png)
 
 
