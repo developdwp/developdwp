@@ -5,6 +5,7 @@
 [![License](https://poser.pugx.org/ali-irawan/xtra/license.svg)](https://poser.pugx.org/ali-irawan/xtra/license.svg)
 
 [![codepen](./src/codepen.svg)](https://badges.aleen42.com/src/codepen.svg) A badge used for projects running on CodePen
+
 [![github](./src/github.svg)](https://badges.aleen42.com/src/github.svg) A badge used for GitHub repositories
 [![angular](./src/angular.svg)](https://badges.aleen42.com/src/angular.svg) A badge used for repositories which has used the framework, Angular
 [![javascript](./src/javascript.svg)](https://badges.aleen42.com/src/javascript.svg) A badge used for projects that coded with JavaScript
