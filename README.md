@@ -15,7 +15,7 @@
 </p>
 
 <!-- ***************************************************************************************** -->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![dwp colored](https://user-images.githubusercontent.com/64360591/150681105-cb01e507-d5e2-47a7-81d5-f90acbe28adf.svg)
 
 ## 👋 ABOUT ME
 
@@ -38,12 +38,12 @@
 
 
 
-![dwp colored](https://user-images.githubusercontent.com/64360591/150681105-cb01e507-d5e2-47a7-81d5-f90acbe28adf.svg)
+
 
 
 
 <!-- ***************************************************************************************** -->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![dwp colored](https://user-images.githubusercontent.com/64360591/150681105-cb01e507-d5e2-47a7-81d5-f90acbe28adf.svg)
 
 ## 📥 MY ONLINE TRAINING
 
@@ -69,7 +69,7 @@
 
 <!-- ***************************************************************************************** -->
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![dwp colored](https://user-images.githubusercontent.com/64360591/150681105-cb01e507-d5e2-47a7-81d5-f90acbe28adf.svg)
 
 ## 🔧 DOCS
 
@@ -92,7 +92,7 @@
 
 
 <!-- ***************************************************************************************** -->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![dwp colored](https://user-images.githubusercontent.com/64360591/150681105-cb01e507-d5e2-47a7-81d5-f90acbe28adf.svg)
 
 ## 🖌 MY FIRST RESULTS
 
@@ -116,7 +116,7 @@
 
 <!-- ***************************************************************************************** -->
 <!-- ***************************************************************************************** -->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![dwp colored](https://user-images.githubusercontent.com/64360591/150681105-cb01e507-d5e2-47a7-81d5-f90acbe28adf.svg)
 
 ## 👀  ANGULAR
 
