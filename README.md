@@ -40,7 +40,7 @@
 ## 📥 MY ONLINE TRAINING
 
 <details>
-<summary> 📖 The content>
+<summary>📖 Table of Contents</summary>
 <br />
 
   * [Formation complète développeur Front-End](https://www.udemy.com/course/formation-complete-developpeur-front-end/)
@@ -63,7 +63,7 @@
    This section lists all the major frameworks / libraries that I am using and learning to bootstrap my projects.
 
 <details>
-<summary> 📖 The content>
+<summary>📖 Table of Contents</summary>
 <br />
 	
    * [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
