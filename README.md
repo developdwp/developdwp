@@ -37,12 +37,10 @@
 
 
 <details>
-<summary>📖 Table of Contents</summary>
+<summary>## 📖 Table of Contents</summary>
 <br />
 
-## ➤ Table of Contents
-
-* [➤ Installation](#-installation)
+ * [➤ Installation](#-installation)
 * [➤ Getting Started (quick)](#-getting-started-quick)
 * [➤ Getting Started (slower)](#-getting-started-slower)
 	* [Blueprint](#blueprint)
