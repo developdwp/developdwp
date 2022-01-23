@@ -42,7 +42,7 @@
 ## 📥 MY ONLINE TRAINING
 
 <details>
-<summary>📖 Table of Contents</summary>
+<summary>📖 Look !</summary>
 <br />
 
   * [Formation complète développeur Front-End](https://www.udemy.com/course/formation-complete-developpeur-front-end/)
@@ -70,7 +70,7 @@
    This section lists all the major frameworks / libraries that I am using and learning to bootstrap my projects.
 
 <details>
-<summary>📖 Table of Contents</summary>
+<summary>📖 Look !</summary>
 <br />
 	
    * [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
@@ -91,7 +91,7 @@
 
    This section presents my draft websites, my target a website all ANGULAR, BOOTSTRAP.
 <details>
-<summary>📖 Table of Contents</summary>
+<summary>📖 Look !</summary>
 <br />
 
    * [Blog-cuisine](https://developdwp.github.io/dwp_blogcuisine/)
@@ -109,6 +109,10 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## 👀  ANGULAR
+
+<details>
+<summary>📖 Look !</summary>
+<br />
 
    ![Capture d’écran 2022-01-14 à 18 06 42](https://user-images.githubusercontent.com/64360591/149555861-84cd96c7-ddd8-42e3-a439-3669165a603c.png)
    ## 🔧 Angular-Install on MACos
@@ -129,6 +133,7 @@
    * 
         ![Capture d’écran 2022-01-15 à 10 32 07](https://user-images.githubusercontent.com/64360591/149616986-ef6707fd-5f06-4cd0-a659-d69f10f029d8.png)
 
+</details>
 
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
