@@ -1,8 +1,10 @@
 
-![badges](https://user-images.githubusercontent.com/64360591/150684900-2af411fe-f006-4190-aae1-87718c29db87.svg)
 
 
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64360591/150684900-2af411fe-f006-4190-aae1-87718c29db87.svg"width="250" height="150">
+</p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/64360591/150680369-380bcf01-e3eb-4ac2-93b7-9f0561b9af5a.svg">
