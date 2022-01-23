@@ -1,7 +1,9 @@
 
 ![developWelcom](https://user-images.githubusercontent.com/64360591/150680369-380bcf01-e3eb-4ac2-93b7-9f0561b9af5a.svg)
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64360591/150680369-380bcf01-e3eb-4ac2-93b7-9f0561b9af5a.svg"width="500" height="300">
+</p>
 <!-- ***************************************************************************************** -->
 
 ## 🙋‍♂️ Hi!
