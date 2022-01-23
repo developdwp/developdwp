@@ -1,15 +1,12 @@
 
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/developdwp">
-        <img src="https://user-images.githubusercontent.com/64360591/150687119-089a10a5-cc5a-459a-ad9e-75d192d5765f.svg" align="center"
-        alt="" width="450">
-      </a>
-    </td>
-  </tr>
-</table>
+
+   <a href="https://github.com/developdwp">
+      <img src="https://user-images.githubusercontent.com/64360591/150687119-089a10a5-cc5a-459a-ad9e-75d192d5765f.svg" align="center"
+      alt="" width="450">
+   </a>
+
+
 
 ## 🙋‍♂️ Hi!
 
