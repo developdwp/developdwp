@@ -30,7 +30,6 @@
 </table>
 
 <br>
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ***************************************************************************************** -->
 
