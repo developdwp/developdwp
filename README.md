@@ -2,7 +2,26 @@
 [![Download](https://poser.pugx.org/ali-irawan/xtra/d/total.svg)](https://poser.pugx.org/ali-irawan/xtra/d/total.svg)
 [![Stable](https://poser.pugx.org/ali-irawan/xtra/v/stable.svg)](https://poser.pugx.org/ali-irawan/xtra/v/stable.svg)
 [![Unstable](https://poser.pugx.org/ali-irawan/xtra/v/unstable.svg)](https://poser.pugx.org/ali-irawan/xtra/v/unstable.svg)
-[![License](https://poser.pugx.org/ali-irawan/xtra/license.svg)](https://poser.pugx.org/ali-irawan/xtra/license.svg)<!-- ***************************************************************************************** -->
+[![License](https://poser.pugx.org/ali-irawan/xtra/license.svg)](https://poser.pugx.org/ali-irawan/xtra/license.svg)
+
+[![codepen](./src/codepen.svg)](https://badges.aleen42.com/src/codepen.svg) A badge used for projects running on CodePen
+[![github](./src/github.svg)](https://badges.aleen42.com/src/github.svg) A badge used for GitHub repositories
+[![angular](./src/angular.svg)](https://badges.aleen42.com/src/angular.svg) A badge used for repositories which has used the framework, Angular
+[![javascript](./src/javascript.svg)](https://badges.aleen42.com/src/javascript.svg) A badge used for projects that coded with JavaScript
+[![node](./src/node.svg)](https://badges.aleen42.com/src/node.svg) A badge used for projects built with Node.js
+[![react](./src/react.svg)](https://badges.aleen42.com/src/react.svg) A badge used for repositories that using [React](https://github.com/facebook/react)
+[![visual_studio_code](./src/visual_studio_code.svg)](https://badges.aleen42.com/src/visual_studio_code.svg) A badge for the Visual Studio Code IDE
+[![typescript](./src/typescript.svg)](https://badges.aleen42.com/src/typescript.svg) A badge used for projects that coded with TypeScript
+[![stackoverflow](./src/stackoverflow.svg)](https://badges.aleen42.com/src/stackoverflow.svg) A badge used for references on Stack Overflow.
+[![telegram](./src/telegram.svg)](https://badges.aleen42.com/src/telegram.svg) A badge used for sharing communication ways on Telegram
+[![discord](./src/discord.svg)](https://badges.aleen42.com/src/discord.svg) A badge used for groups discussed on [Discord](https://discord.com/)
+[![buymeacoffee](./src/buymeacoffee.svg)](https://badges.aleen42.com/src/buymeacoffee.svg) A badge used for BuyMeACoffee sponsors.
+[![paypal](./src/paypal.svg)](https://badges.aleen42.com/src/paypal.svg) A badge used for Paypal sponsors.
+[![illustrator](./src/illustrator.svg)](https://badges.aleen42.com/src/illustrator.svg) A badge used for designing projects using Illustrator as a tool
+[![photoshop](./src/photoshop.svg)](https://badges.aleen42.com/src/photoshop.svg) A badge used for designing projects using Photoshop as a tool
+
+
+<!-- ***************************************************************************************** -->
 
 ## 🙋‍♂️ Hi!
 
@@ -35,7 +54,7 @@
 
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
+
 
 
 
@@ -62,7 +81,6 @@
 </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
 
 
 
@@ -88,7 +106,7 @@
 </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
+
 
 <!-- ***************************************************************************************** -->
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -109,7 +127,7 @@
 </details>
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
+
 
 <!-- ***************************************************************************************** -->
 <!-- ***************************************************************************************** -->
@@ -145,7 +163,7 @@
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br>
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
+
 
 <!-- ***************************************************************************************** -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
@@ -168,7 +186,7 @@
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
+
 <!-- ***************************************************************************************** -->
 
 <br>
