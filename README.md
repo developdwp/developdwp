@@ -1,6 +1,3 @@
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
-## ➤ Table of Contents
 
 <!-- ***************************************************************************************** -->
 
@@ -15,6 +12,7 @@
 </p>
 
 <!-- ***************************************************************************************** -->
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## 👋 ABOUT ME
 
 
@@ -35,7 +33,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ***************************************************************************************** -->
-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## 📥 MY ONLINE TRAINING
 
   * [Formation complète développeur Front-End](https://www.udemy.com/course/formation-complete-developpeur-front-end/)
@@ -51,7 +49,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ***************************************************************************************** -->
-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## 🔧 DOCS
 
    This section lists all the major frameworks / libraries that I am using and learning to bootstrap my projects.
@@ -67,7 +65,7 @@
 
 <!-- ***************************************************************************************** -->
 ## 🖌 MY FIRST RESULTS
-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
    This section presents my draft websites, my target a website all NEXT JS, BOOTSTRAP and deployed with VERCEL.
 
@@ -84,7 +82,7 @@
 <!-- ***************************************************************************************** -->
 <!-- ***************************************************************************************** -->
 ## 👀  ANGULAR
-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
    ![Capture d’écran 2022-01-14 à 18 06 42](https://user-images.githubusercontent.com/64360591/149555861-84cd96c7-ddd8-42e3-a439-3669165a603c.png)
    ## 🔧 Angular-Install on MACos
 
@@ -108,7 +106,7 @@
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br>
-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <!-- ***************************************************************************************** -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
   
