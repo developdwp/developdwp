@@ -15,8 +15,8 @@
 </p>
 
 <!-- ***************************************************************************************** -->
+![dwp colored](https://user-images.githubusercontent.com/64360591/150681284-e6ee91f9-efb7-4bea-9e2d-6011b1f3e52d.svg)
 
-![dwp colored](https://user-images.githubusercontent.com/64360591/150681259-1763f58c-5a68-4978-aee2-40a6006b349a.svg)
 
 ## 👋 ABOUT ME
 
@@ -39,12 +39,9 @@
 
 
 
-
-
-
-
 <!-- ***************************************************************************************** -->
-![dwp colored](https://user-images.githubusercontent.com/64360591/150681105-cb01e507-d5e2-47a7-81d5-f90acbe28adf.svg)
+![dwp colored](https://user-images.githubusercontent.com/64360591/150681291-44f8c022-e859-4f47-a57b-440201fb6c3a.svg)
+
 
 ## 📥 MY ONLINE TRAINING
 
@@ -69,8 +66,7 @@
 
 
 <!-- ***************************************************************************************** -->
-
-![dwp colored](https://user-images.githubusercontent.com/64360591/150681105-cb01e507-d5e2-47a7-81d5-f90acbe28adf.svg)
+![dwp colored](https://user-images.githubusercontent.com/64360591/150681291-44f8c022-e859-4f47-a57b-440201fb6c3a.svg)
 
 ## 🔧 DOCS
 
@@ -93,7 +89,7 @@
 
 
 <!-- ***************************************************************************************** -->
-![dwp colored](https://user-images.githubusercontent.com/64360591/150681105-cb01e507-d5e2-47a7-81d5-f90acbe28adf.svg)
+![dwp colored](https://user-images.githubusercontent.com/64360591/150681291-44f8c022-e859-4f47-a57b-440201fb6c3a.svg)
 
 ## 🖌 MY FIRST RESULTS
 
@@ -117,7 +113,7 @@
 
 <!-- ***************************************************************************************** -->
 <!-- ***************************************************************************************** -->
-![dwp colored](https://user-images.githubusercontent.com/64360591/150681105-cb01e507-d5e2-47a7-81d5-f90acbe28adf.svg)
+![dwp colored](https://user-images.githubusercontent.com/64360591/150681291-44f8c022-e859-4f47-a57b-440201fb6c3a.svg)
 
 ## 👀  ANGULAR
 
