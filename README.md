@@ -96,6 +96,10 @@
 
 ## 📥 MY ONLINE TRAINING
 
+<details>
+<summary>## 📖 Table of Contents</summary>
+<br />
+
   * [Formation complète développeur Front-End](https://www.udemy.com/course/formation-complete-developpeur-front-end/)
   * [Formation Complète Développeur Web](https://www.udemy.com/course/formation-developpeur-web/)
   * [React de A à Z (Hooks, Redux, Contexte inclus)](https://www.udemy.com/course/react-formation-complete/)
@@ -106,6 +110,7 @@
   * [Django & Python | Maitrisez le développement web](https://www.udemy.com/course/django-2-python-maitrisez-le-developpement-web/)
   * [Angular --> below]('')
 
+</details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ***************************************************************************************** -->
