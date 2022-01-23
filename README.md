@@ -36,8 +36,8 @@
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+![dwp colored](https://user-images.githubusercontent.com/64360591/150681038-88650585-eb06-4d18-a425-bbb10211b9cf.svg)
 
-![dwp colored](https://user-images.githubusercontent.com/64360591/150680967-790ff5f3-eb77-4c85-869f-d46965fb76b6.svg)
 
 
 <!-- ***************************************************************************************** -->
