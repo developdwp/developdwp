@@ -30,10 +30,10 @@
 </table>
 
 <br>
-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ***************************************************************************************** -->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 ## 📥 MY ONLINE TRAINING
 
   * [Formation complète développeur Front-End](https://www.udemy.com/course/formation-complete-developpeur-front-end/)
