@@ -35,6 +35,7 @@
 
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
 
 
 
@@ -61,6 +62,7 @@
 </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
 
 
 
@@ -86,6 +88,7 @@
 </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
 
 <!-- ***************************************************************************************** -->
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -106,6 +109,7 @@
 </details>
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
 
 <!-- ***************************************************************************************** -->
 <!-- ***************************************************************************************** -->
@@ -141,6 +145,7 @@
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br>
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
 
 <!-- ***************************************************************************************** -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
@@ -163,6 +168,7 @@
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
 <!-- ***************************************************************************************** -->
 
 <br>
