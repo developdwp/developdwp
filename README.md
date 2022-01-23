@@ -80,7 +80,10 @@
 <!-- ***************************************************************************************** -->
 ## 🖌 MY FIRST RESULTS
 
-   This section presents my draft websites, my target a website all NEXT JS, BOOTSTRAP and deployed with VERCEL.
+   This section presents my draft websites, my target a website all ANGULAR, BOOTSTRAP.
+<details>
+<summary>📖 Table of Contents</summary>
+<br />
 
    * [Blog-cuisine](https://developdwp.github.io/dwp_blogcuisine/)
    * [qr-generator](https://developdwp.github.io/qr-generator/)
@@ -88,7 +91,7 @@
    * [Cuisine de Carine 38](https://developdwp.github.io/dwp_cook/)
    * [Industrialisateur Processus de marquages produits / Web Designer](https://developdwp.github.io/dwp_markingtechno/)
 
-
+</details>
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
