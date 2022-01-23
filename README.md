@@ -15,7 +15,8 @@
 </p>
 
 <!-- ***************************************************************************************** -->
-![dwp colored](https://user-images.githubusercontent.com/64360591/150681105-cb01e507-d5e2-47a7-81d5-f90acbe28adf.svg)
+
+![dwp colored](https://user-images.githubusercontent.com/64360591/150681259-1763f58c-5a68-4978-aee2-40a6006b349a.svg)
 
 ## 👋 ABOUT ME
 
