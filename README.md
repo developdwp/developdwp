@@ -121,41 +121,6 @@
 
 
 <!-- ***************************************************************************************** -->
-<!-- ***************************************************************************************** -->
-![dwp colored](https://user-images.githubusercontent.com/64360591/150681291-44f8c022-e859-4f47-a57b-440201fb6c3a.svg)
-
-## 👀  ANGULAR
-
-<details>
-<summary>📖 Take a Look !</summary>
-<br />
-
-   ![Capture d’écran 2022-01-14 à 18 06 42](https://user-images.githubusercontent.com/64360591/149555861-84cd96c7-ddd8-42e3-a439-3669165a603c.png)
-   ## 🔧 Angular-Install on MACos
-
-   * Download and Install Node.js
-   * npm & node upgrade --> $ brew upgrade node 
-   * In terminal; Install Angular CLI --> $ npm install -g @angular/cli@13         #Angular 13
-   * Testing the installation of Angular CLI --> $ ng version
-   * Create New Angular Application --> $ ng new helloWorld <br>
-     For the Query “Would you like to add Angular Routing?” type Yes. <br>
-     For the Query “Which style sheet format would you like to choose?” move your cursor to point to “CSS” and click enter. <br>
-   * Serve Angular Application --> $ cd helloWorld --> $ ng serve  <br>
-	* & npm run start
-   * Running the Hello-World Application --> http://localhost4200 
-
-   *![Capture d’écran 2022-01-15 à 10 31 03](https://user-images.githubusercontent.com/64360591/149616951-55b60ce4-7cd0-4146-aa83-934b6af3bde3.png)<br>
-
-   * Typically, the browser looks something like this:
-   * 
-        ![Capture d’écran 2022-01-15 à 10 32 07](https://user-images.githubusercontent.com/64360591/149616986-ef6707fd-5f06-4cd0-a659-d69f10f029d8.png)
-
-</details>
-
-<br>
-<p align="right">(<a href="#top">back to top</a>)</p>
-<br>
-
 
 <!-- ***************************************************************************************** -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
