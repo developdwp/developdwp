@@ -66,7 +66,7 @@
   * [Python pour les débutants](https://www.udemy.com/course/formation-complete-python/)
   * [Python & Django - Formation Développeur Web](https://www.udemy.com/course/python-django-formation-developpeur-web-full-stack/?src=sac&kw=python+%26+django)
   * [Django & Python | Maitrisez le développement web](https://www.udemy.com/course/django-2-python-maitrisez-le-developpement-web/)
-  * [Angular --> below]('')
+  
 
 </details>
 
