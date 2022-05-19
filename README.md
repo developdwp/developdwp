@@ -91,10 +91,9 @@
    * [NEXT.JS](https://nextjs.org/)
    * [REACT.JS](https://reactjs.org/)
    * [ANGULAR](https://angular.io/guide/what-is-angular/)
-   * [WORDPRESS](https://angular.io/guide/what-is-angular/)
-   * [GOOGLE ANALYTICS](https://angular.io/guide/what-is-angular/)
-   * [WORDPRESS] (https://wordpress.com/free/)
-   * [GOOGLE] (https://datastudio.withgoogle.com/?_ga=2.110157190.2097774312.1641201927-364289768.1641201927&gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQIhrZUPjKM2MUeAU2DKcCsYSJEf9DXU0DwCT1paA062kRPVHaWOn8gaAs8eEALw_wcB&gclsrc=aw.ds)
+   * [WORDPRESS](https://wordpress.com/free/)
+   * [GOOGLE ANALYTICS]([https://angular.io/guide/what-is-angular/](https://datastudio.withgoogle.com/?_ga=2.110157190.2097774312.1641201927-364289768.1641201927&gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQIhrZUPjKM2MUeAU2DKcCsYSJEf9DXU0DwCT1paA062kRPVHaWOn8gaAs8eEALw_wcB&gclsrc=aw.ds))
+
 	
 </details>
 
