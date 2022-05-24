@@ -34,6 +34,7 @@
         - 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 56 years old, self-taught, passionate about coding and webdesign after my job. <br>
         - 👀  - After several years of learning with different coding languages for the purpose of designing websites, I came back to WordPress. This CMS 		brings together the best programming languages and allows natural 'SEO' referencing.
 	      Easier to focus on the essential, the website!<br>
+	     SEO is essential to be visible and increase the audience of your website, to do this I train on Google Analytics. The latest Beta version 			(2023 - GA4) allows me to evolve with the Google community.<br>
         - 🧡  - I really enjoy designing and realizing the visual identity, illustrations, banners, graphical charter, pack ADOBE...<br>
         - 🌱  - I’m currently learning WORDPRESS and GOOGLE Analytics<br>
         - 💞️  - I am looking to collaborate with other beginners or more experienced to create a website.<br>
