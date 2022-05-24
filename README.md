@@ -32,9 +32,8 @@
   <tr>
     <td>
         - 👋  - Hi, I’m Pascal, Belgian, I live in France, I am 56 years old, self-taught, passionate about coding and webdesign after my job. <br>
-        - 👀  - After several years of learning different coding language to start the website design, I came back on WordPress. 
-	    	This CMS, puts the language of programming, useless of verifiers, changes in all the different languages. 
-	    	Referencing 'SEO' is optimized, why it complicates life<br>
+        - 👀  - After several years of learning with different coding languages for the purpose of designing websites, I came back to WordPress. This CMS 		brings together the best programming languages and allows natural 'SEO' referencing.
+	      Easier to focus on the essential, the website!<br>
         - 🧡  - I really enjoy designing and realizing the visual identity, illustrations, banners, graphical charter, pack ADOBE...<br>
         - 🌱  - I’m currently learning WORDPRESS and GOOGLE Analytics<br>
         - 💞️  - I am looking to collaborate with other beginners or more experienced to create a website.<br>
