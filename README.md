@@ -115,7 +115,7 @@
    * [CV-1](https://developdwp.github.io/dwp_cv1/)
    * [Cuisine de Carine 38](https://developdwp.github.io/dwp_cook/)
    * [Industrialisateur Processus de marquages produits / Web Designer](https://developdwp.github.io/dwp_markingtechno/)
-   * [My resume](https://developdwp.fr/)
+   * [Site Vitrine](https://developdwp.fr/)
 	
 
 </details>
