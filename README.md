@@ -38,7 +38,7 @@
         - 🧡  - I really enjoy designing and realizing the visual identity, illustrations, banners, graphical charter, pack ADOBE...<br>
         - 🌱  - I’m currently learning WORDPRESS and GOOGLE Analytics<br>
         - 💞️  - I am looking to collaborate with other beginners or more experienced to create a website.<br>
-	- 💻  - [My WebSite](https://developdwp.fr/)   
+	- 💻  - My WebSite (https://developdwp.fr/)<br>
         - 📫  - Join me --> admin@developdwp.fr<br>
     </td>
   </tr>
