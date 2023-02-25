@@ -13,6 +13,16 @@
 
 ## 🙋‍♂️ Hi!
 
+<p align="center">
+  <a href="https://github.com/sponsors/developdwp"><img alt="Sponsor with Github" title="developdwp" src="https://img.shields.io/badge/-____________developdwp____________-red?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif"width="500" height="300">
+</p>
+
+<!-- ***************************************************************************************** -->
+![dwp colored](https://user-images.githubusercontent.com/64360591/150681284-e6ee91f9-efb7-4bea-9e2d-6011b1f3e52d.svg)
 
 <!-- ***************************************************************************************** -->
 ![dwp colored](https://user-images.githubusercontent.com/64360591/150681284-e6ee91f9-efb7-4bea-9e2d-6011b1f3e52d.svg)
