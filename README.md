@@ -108,13 +108,13 @@
 <summary>📖 Take a Look !</summary>
 <br />
 
-   *  [My WebSite](https://developdwp.fr/)
+   *  [My WebSite](https://2dsmart.fr/)
    *  [Blog-cuisine](https://developdwp.github.io/dwp_blogcuisine/)
    * [qr-generator](https://developdwp.github.io/qr-generator/)
    * [CV-1](https://developdwp.github.io/dwp_cv1/)
    * [Cuisine de Carine 38](https://developdwp.github.io/dwp_cook/)
    * [Industrialisateur Processus de marquages produits / Web Designer](https://developdwp.github.io/dwp_markingtechno/)
-   * [Site Vitrine](https://developdwp.fr/)
+ 
 	
 
 </details>
